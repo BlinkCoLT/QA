@@ -1,8 +1,8 @@
 **quick update - 14.04.2022**
 
-_Не работает_
-1) cp file/home/username/test
-В моём случае cp hello/home/blinkcolt/test2
+_забыл пробел_работает
+1) cp file /home/username/test
+В моём случае cp hello /home/blinkcolt/test2
 
 РАБОТАЕТ:
 2) cp /path/to/file /path/to/destination
